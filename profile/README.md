@@ -1,1 +1,1 @@
-Welcome to Warehouse Automation Services, Inc's official GitHub repository! Here, you'll find the cutting-edge innovations and projects that power the future of warehouse automation. Dive in, explore, and join us in shaping the next era of warehousing solutions. #AutomateWithWASI 🤖📦.
+Welcome to Pallet Shuttle Automation's official GitHub repository! Here, you'll find the cutting-edge innovations and projects that power the future of warehouse automation. Dive in, explore, and join us in shaping the next era of warehousing solutions. #AutomateWithPSA 🤖📦.
